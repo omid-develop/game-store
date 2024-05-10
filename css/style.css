@@ -19,3 +19,16 @@
     url('../fonts/Sahel-Bold.woff') format('woff'),
     url('../fonts/Sahel-Bold.ttf') format('ttf');
 }
+
+
+
+.image-intro{
+    position: relative;
+    height: 515px;
+}
+
+
+
+.image{
+    position: absolute;
+}
