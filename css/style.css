@@ -32,3 +32,40 @@
 .image{
     position: absolute;
 }
+
+
+
+@media (max-width: 454px){
+    .font-category{
+        font-size: 17px !important;
+    }
+}
+
+
+
+.box-ax-category{
+    width: 130px;
+    min-height: 120px;
+    background-color: transparent;
+    margin: auto;
+    border-radius: 15px;
+}
+
+
+
+
+.box-categories{
+    width: 100%;
+    background-image: url("../img/background-category.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+@media (max-width: 454px){
+    .box-ax-category{
+        width: 100%;
+    }
+}
