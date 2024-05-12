@@ -69,3 +69,464 @@
         width: 100%;
     }
 }
+
+
+
+
+
+.box-bestSellers{
+    width: 98%;
+    min-height: 150px;
+    background-color: darkgoldenrod;
+    margin: auto;
+}
+
+
+
+.box-forush{
+    width: 32%;
+    height: 130px;
+    background-color: green;
+    margin-top: 13px;
+    float: right;
+    margin-right: 11px;
+    border-radius: 10px;
+}
+
+
+
+.ax-game{
+    width: 130px;
+    height: 130px;
+    background-color: orange;
+    float: right;
+    border-radius: 10px;
+}
+
+
+
+.title-game{
+    width: 230px;
+    padding: 1px 0;
+    background-color: red;
+    float: right;
+    margin-right: 10px;
+    margin-top: 11px;
+    font-size: 16px;
+    font-family: Yekan;
+}
+
+
+
+.box-price{
+    width: 230px;
+    height: 30px;
+    background-color: red;
+    float: right;
+    margin-right: 10px;
+    margin-top: 13px;
+}
+
+
+
+.price-game{
+    width: 100px;
+    padding: 2px 0;
+    background-color: yellow;
+    float: right;
+    font-size: 15px;
+    font-family: Yekan;
+    text-decoration: line-through;
+}
+
+
+.discount-game{
+    width: 100px;
+    padding: 2px 0;
+    background-color: yellow;
+    float: right;
+    margin-right: 10px;
+    font-size: 15px;
+    font-family: Yekan;
+}
+
+
+
+.name-system{
+    width: 230px;
+    padding: 1px 0;
+    background-color: blue;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Yekan;
+}
+
+
+
+
+
+@media (max-width: 454px){
+    .box-bestSellers{
+        width: 100%;
+        min-height: 650px;
+        background-color: darkgoldenrod;
+        margin: auto;
+    }
+
+
+    .box-forush{
+        width: 100%;
+        min-height: 130px;
+        background-color: green;
+        float: none;
+        margin: auto;
+        margin-top: 5px;
+        border-radius: 10px;
+    }
+
+
+
+    .ax-game{
+        width: 33%;
+        min-height: 130px;
+        background-color: orange;
+        float: right;
+        border-radius: 10px;
+    }
+
+
+    .title-game{
+        width: 60%;
+        padding: 1px 0;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 11px;
+        font-size: 16px;
+        font-family: Yekan;
+    }
+
+
+    .box-price{
+        width: 60%;
+        min-height: 30px;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 13px;
+    }
+
+
+
+    .price-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        font-size: 13px;
+        font-family: Yekan;
+        text-decoration: line-through;
+    }
+
+
+    .discount-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        margin-right: 10px;
+        font-size: 13px;
+        font-family: Yekan;
+    }
+
+
+
+    .name-system{
+        width: 60%;
+        padding: 1px 0;
+        background-color: blue;
+        float: right;
+        margin-right: 10px;
+        margin-top: 10px;
+        font-size: 14px;
+        font-family: Yekan;
+    }
+
+}
+
+
+
+
+@media (min-width: 455px) and (max-width: 700px){
+    .box-bestSellers{
+        width: 100%;
+        min-height: 650px;
+        background-color: darkgoldenrod;
+        margin: auto;
+    }
+
+
+    .box-forush{
+        width: 100%;
+        min-height: 130px;
+        background-color: green;
+        float: none;
+        margin: auto;
+        margin-top: 5px;
+        border-radius: 10px;
+    }
+
+
+
+    .ax-game{
+        width: 25%;
+        min-height: 130px;
+        background-color: orange;
+        float: right;
+        border-radius: 10px;
+    }
+
+
+    .title-game{
+        width: 60%;
+        padding: 1px 0;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 11px;
+        font-size: 16px;
+        font-family: Yekan;
+    }
+
+
+    .box-price{
+        width: 60%;
+        min-height: 30px;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 13px;
+    }
+
+
+
+    .price-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        font-size: 13px;
+        font-family: Yekan;
+        text-decoration: line-through;
+    }
+
+
+    .discount-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        margin-right: 10px;
+        font-size: 13px;
+        font-family: Yekan;
+    }
+
+
+
+    .name-system{
+        width: 60%;
+        padding: 1px 0;
+        background-color: blue;
+        float: right;
+        margin-right: 10px;
+        margin-top: 10px;
+        font-size: 14px;
+        font-family: Yekan;
+    }
+}
+
+
+
+
+
+@media (min-width: 701px) and (max-width: 900px){
+    .box-bestSellers{
+        width: 100%;
+        min-height: 650px;
+        background-color: darkgoldenrod;
+        margin: auto;
+    }
+
+
+    .box-forush{
+        width: 100%;
+        min-height: 130px;
+        background-color: green;
+        float: none;
+        margin: auto;
+        margin-top: 5px;
+        border-radius: 10px;
+    }
+
+
+
+    .ax-game{
+        width: 25%;
+        min-height: 130px;
+        background-color: orange;
+        float: right;
+        border-radius: 10px;
+    }
+
+
+    .title-game{
+        width: 60%;
+        padding: 1px 0;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 11px;
+        font-size: 16px;
+        font-family: Yekan;
+    }
+
+
+    .box-price{
+        width: 60%;
+        min-height: 30px;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 13px;
+    }
+
+
+
+    .price-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        font-size: 13px;
+        font-family: Yekan;
+        text-decoration: line-through;
+    }
+
+
+    .discount-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        margin-right: 10px;
+        font-size: 13px;
+        font-family: Yekan;
+    }
+
+
+
+    .name-system{
+        width: 60%;
+        padding: 1px 0;
+        background-color: blue;
+        float: right;
+        margin-right: 10px;
+        margin-top: 10px;
+        font-size: 14px;
+        font-family: Yekan;
+    }
+}
+
+
+
+
+
+@media (min-width: 901px) and (max-width: 1230px){
+    .box-bestSellers{
+        width: 100%;
+        min-height: 650px;
+        background-color: darkgoldenrod;
+        margin: auto;
+    }
+
+
+    .box-forush{
+        width: 100%;
+        min-height: 130px;
+        background-color: green;
+        float: none;
+        margin: auto;
+        margin-top: 5px;
+        border-radius: 10px;
+    }
+
+
+
+    .ax-game{
+        width: 18%;
+        min-height: 130px;
+        background-color: orange;
+        float: right;
+        border-radius: 10px;
+    }
+
+
+    .title-game{
+        width: 60%;
+        padding: 1px 0;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 11px;
+        font-size: 16px;
+        font-family: Yekan;
+    }
+
+
+    .box-price{
+        width: 60%;
+        min-height: 30px;
+        background-color: red;
+        float: right;
+        margin-right: 10px;
+        margin-top: 13px;
+    }
+
+
+
+    .price-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        font-size: 13px;
+        font-family: Yekan;
+        text-decoration: line-through;
+    }
+
+
+    .discount-game{
+        width: 45%;
+        padding: 2px 0;
+        background-color: yellow;
+        float: right;
+        margin-right: 10px;
+        font-size: 13px;
+        font-family: Yekan;
+    }
+
+
+
+    .name-system{
+        width: 60%;
+        padding: 1px 0;
+        background-color: blue;
+        float: right;
+        margin-right: 10px;
+        margin-top: 10px;
+        font-size: 14px;
+        font-family: Yekan;
+    }
+}
