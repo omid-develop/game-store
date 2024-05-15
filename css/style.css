@@ -21,6 +21,11 @@
 }
 
 
+body{
+    background-color: #070e1c;
+}
+
+
 
 .image-intro{
     position: relative;
@@ -132,7 +137,7 @@
 .box-bestSellers{
     width: 98%;
     min-height: 150px;
-    background-color: darkgoldenrod;
+    background-color: transparent;
     margin: auto;
 }
 
@@ -141,7 +146,7 @@
 .box-forush{
     width: 32%;
     height: 130px;
-    background-color: green;
+    background-color: #1c2235;
     margin-top: 13px;
     float: right;
     margin-right: 11px;
@@ -153,7 +158,7 @@
 .ax-game{
     width: 130px;
     height: 130px;
-    background-color: orange;
+    background-color: white;
     float: right;
     border-radius: 10px;
 }
@@ -163,12 +168,13 @@
 .title-game{
     width: 230px;
     padding: 1px 0;
-    background-color: red;
+    background-color: transparent;
     float: right;
     margin-right: 10px;
     margin-top: 11px;
     font-size: 16px;
     font-family: Yekan;
+    color: white;
 }
 
 
@@ -176,10 +182,11 @@
 .box-price{
     width: 230px;
     height: 30px;
-    background-color: red;
+    background-color: transparent;
     float: right;
     margin-right: 10px;
     margin-top: 13px;
+    color: white;
 }
 
 
@@ -187,7 +194,7 @@
 .price-game{
     width: 100px;
     padding: 2px 0;
-    background-color: yellow;
+    background-color: transparent;
     float: right;
     font-size: 15px;
     font-family: Yekan;
@@ -198,11 +205,12 @@
 .discount-game{
     width: 100px;
     padding: 2px 0;
-    background-color: yellow;
+    background-color: transparent;
     float: right;
     margin-right: 10px;
     font-size: 15px;
     font-family: Yekan;
+    color: white;
 }
 
 
@@ -210,12 +218,13 @@
 .name-system{
     width: 230px;
     padding: 1px 0;
-    background-color: blue;
+    background-color: transparent;
     float: right;
     margin-right: 10px;
     margin-top: 10px;
     font-size: 16px;
     font-family: Yekan;
+    color: white;
 }
 
 
@@ -226,7 +235,7 @@
     .box-bestSellers{
         width: 100%;
         min-height: 650px;
-        background-color: darkgoldenrod;
+        background-color: transparent;
         margin: auto;
     }
 
@@ -234,7 +243,7 @@
     .box-forush{
         width: 100%;
         min-height: 130px;
-        background-color: green;
+        background-color: #1c2235;
         float: none;
         margin: auto;
         margin-top: 5px;
@@ -246,7 +255,7 @@
     .ax-game{
         width: 33%;
         min-height: 130px;
-        background-color: orange;
+        background-color: white;
         float: right;
         border-radius: 10px;
     }
@@ -255,7 +264,7 @@
     .title-game{
         width: 60%;
         padding: 1px 0;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 11px;
@@ -267,7 +276,7 @@
     .box-price{
         width: 60%;
         min-height: 30px;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 13px;
@@ -278,7 +287,7 @@
     .price-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         font-size: 13px;
         font-family: Yekan;
@@ -289,7 +298,7 @@
     .discount-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         font-size: 13px;
@@ -301,7 +310,7 @@
     .name-system{
         width: 60%;
         padding: 1px 0;
-        background-color: blue;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 10px;
@@ -318,7 +327,7 @@
     .box-bestSellers{
         width: 100%;
         min-height: 650px;
-        background-color: darkgoldenrod;
+        background-color: transparent;
         margin: auto;
     }
 
@@ -326,7 +335,7 @@
     .box-forush{
         width: 100%;
         min-height: 130px;
-        background-color: green;
+        background-color: #1c2235;
         float: none;
         margin: auto;
         margin-top: 5px;
@@ -338,7 +347,7 @@
     .ax-game{
         width: 25%;
         min-height: 130px;
-        background-color: orange;
+        background-color: white;
         float: right;
         border-radius: 10px;
     }
@@ -347,7 +356,7 @@
     .title-game{
         width: 60%;
         padding: 1px 0;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 11px;
@@ -359,7 +368,7 @@
     .box-price{
         width: 60%;
         min-height: 30px;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 13px;
@@ -370,7 +379,7 @@
     .price-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         font-size: 13px;
         font-family: Yekan;
@@ -381,7 +390,7 @@
     .discount-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         font-size: 13px;
@@ -393,7 +402,7 @@
     .name-system{
         width: 60%;
         padding: 1px 0;
-        background-color: blue;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 10px;
@@ -410,7 +419,7 @@
     .box-bestSellers{
         width: 100%;
         min-height: 650px;
-        background-color: darkgoldenrod;
+        background-color: transparent;
         margin: auto;
     }
 
@@ -418,7 +427,7 @@
     .box-forush{
         width: 100%;
         min-height: 130px;
-        background-color: green;
+        background-color: #1c2235;
         float: none;
         margin: auto;
         margin-top: 5px;
@@ -430,7 +439,7 @@
     .ax-game{
         width: 25%;
         min-height: 130px;
-        background-color: orange;
+        background-color: white;
         float: right;
         border-radius: 10px;
     }
@@ -439,7 +448,7 @@
     .title-game{
         width: 60%;
         padding: 1px 0;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 11px;
@@ -451,7 +460,7 @@
     .box-price{
         width: 60%;
         min-height: 30px;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 13px;
@@ -462,7 +471,7 @@
     .price-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         font-size: 13px;
         font-family: Yekan;
@@ -473,7 +482,7 @@
     .discount-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         font-size: 13px;
@@ -485,7 +494,7 @@
     .name-system{
         width: 60%;
         padding: 1px 0;
-        background-color: blue;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 10px;
@@ -502,7 +511,7 @@
     .box-bestSellers{
         width: 100%;
         min-height: 650px;
-        background-color: darkgoldenrod;
+        background-color: transparent;
         margin: auto;
     }
 
@@ -510,7 +519,7 @@
     .box-forush{
         width: 100%;
         min-height: 130px;
-        background-color: green;
+        background-color: #1c2235;
         float: none;
         margin: auto;
         margin-top: 5px;
@@ -522,7 +531,7 @@
     .ax-game{
         width: 18%;
         min-height: 130px;
-        background-color: orange;
+        background-color: white;
         float: right;
         border-radius: 10px;
     }
@@ -531,7 +540,7 @@
     .title-game{
         width: 60%;
         padding: 1px 0;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 11px;
@@ -543,7 +552,7 @@
     .box-price{
         width: 60%;
         min-height: 30px;
-        background-color: red;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 13px;
@@ -554,7 +563,7 @@
     .price-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         font-size: 13px;
         font-family: Yekan;
@@ -565,7 +574,7 @@
     .discount-game{
         width: 45%;
         padding: 2px 0;
-        background-color: yellow;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         font-size: 13px;
@@ -577,7 +586,7 @@
     .name-system{
         width: 60%;
         padding: 1px 0;
-        background-color: blue;
+        background-color: transparent;
         float: right;
         margin-right: 10px;
         margin-top: 10px;
