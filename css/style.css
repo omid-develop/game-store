@@ -646,3 +646,20 @@ body{
     background-color: darkorange;
     margin-top: 56px;
 }
+
+
+
+
+
+@media (max-width: 454px){
+    .form-nazarat{
+        margin-top: 30px !important;
+    }
+}
+
+
+@media (min-width: 455px) and (max-width: 900px){
+    .form-nazarat{
+        margin-top: 30px !important;
+    }
+}
