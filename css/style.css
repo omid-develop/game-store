@@ -673,3 +673,13 @@ body{
     background-color: darkorange;
     margin-top: 56px;
 }
+
+
+
+.box-hesab-karbari{
+    width: 400px;
+    min-height: 350px;
+    background-color: #0164AF;
+    margin: auto;
+    border-radius: 15px;
+}
