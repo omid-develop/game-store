@@ -76,9 +76,10 @@ body{
 
 .search.active input {
     width: 300px;
-    background-color: red;
+    background-color: #a04cff;
     margin-left: 20px;
     border-radius: 5px;
+    color: white;
 }
 
 
